@@ -1,2 +1,2 @@
-echo streamlit  requirements.txt
-echo requests  requirements.txt
+streamlit
+requests
